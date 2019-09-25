@@ -1,0 +1,258 @@
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\MySchoolManagementProject.dll.config
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\MySchoolManagementProject.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\MySchoolManagementProject.pdb
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\csc.exe
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\csc.exe.config
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\csc.rsp
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\csi.exe
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\csi.rsp
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\System.AppContext.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\System.Collections.Immutable.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\System.IO.FileSystem.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\System.Reflection.Metadata.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\vbc.exe
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\vbc.exe.config
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\vbc.rsp
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\VBCSCompiler.exe
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\VBCSCompiler.exe.config
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Antlr3.Runtime.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\AspNet.ScriptManager.bootstrap.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\AspNet.ScriptManager.jQuery.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\EntityFramework.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\EntityFramework.SqlServer.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.Identity.Core.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.Cookies.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.Facebook.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.Google.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.OAuth.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.Twitter.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.ScriptManager.WebForms.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Web.Infrastructure.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Newtonsoft.Json.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Owin.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\System.Diagnostics.DiagnosticSource.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\System.Web.Optimization.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\System.Web.Providers.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\WebGrease.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\System.Web.Optimization.xml
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Newtonsoft.Json.xml
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Antlr3.Runtime.pdb
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\EntityFramework.xml
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\EntityFramework.SqlServer.xml
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.Identity.Core.xml
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\System.Web.Providers.xml
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.xml
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.xml
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.Facebook.xml
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.Cookies.xml
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.Google.xml
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.Twitter.xml
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.OAuth.xml
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\System.Diagnostics.DiagnosticSource.xml
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\obj\Debug\MySchoolManagementProject.csproj.CoreCompileInputs.cache
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\obj\Debug\MySchoolManagementProject.csproj.CopyComplete
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\obj\Debug\MySchoolManagementProject.dll
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\obj\Debug\MySchoolManagementProject.pdb
+E:\R39_Belal_Uddin\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\obj\Debug\MySchoolManagementProject.csprojAssemblyReference.cache
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\MySchoolManagementProject.dll.config
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\MySchoolManagementProject.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\MySchoolManagementProject.pdb
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\csc.exe
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\csc.exe.config
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\csc.rsp
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\csi.exe
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\csi.rsp
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\System.AppContext.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\vbc.exe
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\vbc.exe.config
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\vbc.rsp
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Antlr3.Runtime.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\EntityFramework.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\EntityFramework.SqlServer.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Newtonsoft.Json.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Owin.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\System.Web.Optimization.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\System.Web.Providers.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\WebGrease.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\System.Web.Optimization.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Newtonsoft.Json.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Antlr3.Runtime.pdb
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\EntityFramework.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\EntityFramework.SqlServer.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\System.Web.Providers.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\obj\Debug\MySchoolManagementProject.csproj.CoreCompileInputs.cache
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\obj\Debug\MySchoolManagementProject.csproj.CopyComplete
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\obj\Debug\MySchoolManagementProject.dll
+C:\Users\IDB_C#\Desktop\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\obj\Debug\MySchoolManagementProject.pdb
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\MySchoolManagementProject.dll.config
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\MySchoolManagementProject.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\MySchoolManagementProject.pdb
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\csc.exe
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\csc.exe.config
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\csc.rsp
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\csi.exe
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\csi.rsp
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\System.AppContext.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\System.Collections.Immutable.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\System.IO.FileSystem.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\System.Reflection.Metadata.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\vbc.exe
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\vbc.exe.config
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\vbc.rsp
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\VBCSCompiler.exe
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\roslyn\VBCSCompiler.exe.config
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Antlr3.Runtime.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\AspNet.ScriptManager.bootstrap.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\AspNet.ScriptManager.jQuery.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\EntityFramework.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\EntityFramework.SqlServer.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\hbehr.recaptcha.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.Identity.Core.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.Cookies.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.Facebook.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.Google.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.OAuth.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.Twitter.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.ScriptManager.WebForms.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Web.Infrastructure.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Newtonsoft.Json.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Owin.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Recaptcha.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\System.Diagnostics.DiagnosticSource.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\System.Web.Optimization.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\System.Web.Providers.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\WebGrease.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\System.Web.Optimization.xml
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Newtonsoft.Json.xml
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Antlr3.Runtime.pdb
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\EntityFramework.xml
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\EntityFramework.SqlServer.xml
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.Identity.Core.xml
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\System.Web.Providers.xml
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.xml
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.xml
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.Facebook.xml
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.Cookies.xml
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.Google.xml
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.Twitter.xml
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.Owin.Security.OAuth.xml
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\System.Diagnostics.DiagnosticSource.xml
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\obj\Debug\MySchoolManagementProject.csproj.CoreCompileInputs.cache
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\obj\Debug\MySchoolManagementProject.csproj.CopyComplete
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\obj\Debug\MySchoolManagementProject.dll
+E:\IDB-BISEW\NEW PROJECT\MySchoolManagementProject\MySchoolManagementProject\MySchoolManagementProject\obj\Debug\MySchoolManagementProject.pdb

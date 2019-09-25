@@ -1,0 +1,253 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="MySchoolManagementProject.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - My ASP.NET Application</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+    	<!-- Stylesheets -->
+<%--	<link rel="stylesheet" href="unica/css/bootstrap.min.css"/>--%>
+	<link rel="stylesheet" href="unica/css/font-awesome.min.css"/>
+	<link rel="stylesheet" href="unica/css/themify-icons.css"/>
+	<link rel="stylesheet" href="unica/css/magnific-popup.css"/>
+	<link rel="stylesheet" href="unica/css/animate.css"/>
+	<link rel="stylesheet" href="unica/css/owl.carousel.css"/>
+	<link rel="stylesheet" href="unica/css/style.css"/>
+
+
+
+    <style>
+        .logout{
+            border:solid 2px;
+            border-radius: 10px;
+            padding: 5px;
+            shape-margin:inherit;
+            background-color:darkorchid;
+            font-size: 15px;
+        }
+    </style>
+</head>
+<body>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see https://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+
+	    <!-- header section -->
+	    <header class="header-section">
+		    <div class="container">
+			    <!-- logo -->
+			    <a href="../Default.aspx">
+                    <img src="../Images/rsz_schoollogo.png" />
+                    <span style="font-size:30px">ABC School</span>
+			    </a>
+			    <div class="header-info">
+				    <div class="hf-item">
+					    <i class="fa fa-clock-o"></i>
+					    <p><span>Working time:</span>Sunday - Thursday: 08 AM - 06 PM<span style="color:gray">Friday- Off</span></p>
+				    </div>
+				    <div class="hf-item">
+					    <i class="fa fa-map-marker"></i>
+					    <p><span>Find us:</span>40 CDA Avinue Road, Chittagong, BD<span style="color:gray">Phone : 03987678</span></p>
+                        
+				    </div>
+			    </div>
+		    </div>
+	    </header>
+	    <!-- header section end-->
+
+
+
+
+        <div class="navbar navbar-inverse" style="background-color:blanchedalmond; border-style:none; color:blue">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a runat="server" href="~/" style="color:black">Home</a></li>
+                        <li><a runat="server" href="~/About" style="color:black">About</a></li>
+                        <li><a runat="server" href="~/Contact" style="color:black">Contact</a></li>
+                        <li><a runat="server" href="Pages/NoticeDisplay.aspx" style="color:black">Notice Board</a></li>
+                    </ul>
+                    
+                    <asp:LoginView runat="server" ViewStateMode="Disabled">
+                        <AnonymousTemplate>
+                            <ul class="nav navbar-nav navbar-right">
+<%--                                <li><a runat="server" href="./Pages/Dashboard">Dashboard</a></li>--%>
+                                <li><a runat="server" href="~/Account/Register" style="color:black">Register</a></li>
+                                <li><a runat="server" href="~/Account/Login" style="color:black">Log in</a></li>
+                            </ul>
+                        </AnonymousTemplate>
+                        <LoggedInTemplate>
+                                    <ul class="nav navbar-nav navbar-right">
+                                         <li>
+                                             <a class="logout" runat="server" href="./Pages/Dashboard" title="Manage your account" style="color:black">Deshboard</a></li>
+                                        <li>
+                                            <asp:LoginStatus runat="server" LogoutAction="Redirect" LogoutText="Log off" LogoutPageUrl="~/" OnLoggingOut="Unnamed_LoggingOut" />
+                                        </li>
+                                        
+                                        <%--<% if(Page.User.IsInRole("Admin")) { %> <li id="menuDashboard" style="color:palegreen; font-weight:bold;  touch-action:double-tap-zoom; background-color:Highlight;"><a runat="server" href="Pages/Dashboard.aspx">Dashboard</a></li>  <% } %>--%>
+                                    </ul>
+                      </LoggedInTemplate>
+
+                        <RoleGroups>
+                        <asp:RoleGroup Roles="Student">
+                                <ContentTemplate>
+                                    <ul class="nav navbar-nav navbar-right">
+                                         <li>
+                                             <a class="logout" runat="server" href="./Pages/Dashboard" style="color:black" title="Manage your account">Student Deshboard</a></li>
+                                        <li>
+                                            <asp:LoginStatus runat="server" LogoutAction="Redirect" LogoutText="Log off" LogoutPageUrl="~/" OnLoggingOut="Unnamed_LoggingOut" ForeColor="Black"/>
+                                        </li>
+                                    </ul>
+                                </ContentTemplate>
+                            </asp:RoleGroup>
+                        </RoleGroups>   
+
+
+                        <RoleGroups>
+                        <asp:RoleGroup Roles="Teacher">
+                                <ContentTemplate>
+                                    <ul class="nav navbar-nav navbar-right">
+                                         <li>
+                                             <a class="logout" runat="server" href="./Pages/Dashboard" title="Manage your account">Teacher Deshboard</a></li>
+                                        <li>
+                                            <asp:LoginStatus runat="server" LogoutAction="Redirect" LogoutText="Log off" LogoutPageUrl="~/" OnLoggingOut="Unnamed_LoggingOut" ForeColor="Black" />
+                                        </li>
+                                    </ul>
+                                </ContentTemplate>
+                            </asp:RoleGroup>
+                        </RoleGroups>
+                        
+
+                        <RoleGroups>
+                        <asp:RoleGroup Roles="Admin">
+                                <ContentTemplate>
+                                    <ul class="nav navbar-nav navbar-right">
+                                         <li>
+                                             <a class="logout" runat="server" href="./Pages/Dashboard" title="Manage your account">Admin Deshboard</a></li>
+                                        <li>
+                                            <asp:LoginStatus runat="server" LogoutAction="Redirect" LogoutText="Log off" LogoutPageUrl="~/" OnLoggingOut="Unnamed_LoggingOut" ForeColor="Black" />
+                                        </li>
+                                    </ul>
+                                </ContentTemplate>
+                            </asp:RoleGroup>
+                        </RoleGroups>  
+
+
+                    </asp:LoginView>
+                </div>
+            </div>
+        </div>
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <hr />
+    <!-- Services section -->
+	<section class="service-section spad">
+		<div class="container services">
+			<div class="section-title text-center">
+				<h3>OUR SERVICES</h3>
+				<p>We provides the opportunity to prepare for life</p>
+			</div>
+			<div class="row">
+				<div class="col-lg-4 col-sm-6 service-item">
+					<div class="service-icon">
+						<img src="../unica/img/services-icons/1.png" alt="1">
+					</div>
+					<div class="service-content">
+						<h4>Art Studio</h4>
+						<p>Lorem ipsum dolor sitdo amet, consectetur dont adipis elit. Vivamus interdum ultrices augue. Aenean dos cursus lania.</p>
+					</div>
+				</div>
+				<div class="col-lg-4 col-sm-6 service-item">
+					<div class="service-icon">
+						<img src="../unica/img/services-icons/2.png" alt="1">
+					</div>
+					<div class="service-content">
+						<h4>Great Facility</h4>
+						<p>Lorem ipsum dolor sitdo amet, consectetur dont adipis elit. Vivamus interdum ultrices augue. Aenean dos cursus lania.</p>
+					</div>
+				</div>
+				<div class="col-lg-4 col-sm-6 service-item">
+					<div class="service-icon">
+						<img src="../unica/img/services-icons/3.png" alt="1">
+					</div>
+					<div class="service-content">
+						<h4>Activity Hub</h4>
+						<p>Lorem ipsum dolor sitdo amet, consectetur dont adipis elit. Vivamus interdum ultrices augue. Aenean dos cursus lania.</p>
+					</div>
+				</div>
+				<div class="col-lg-4 col-sm-6 service-item">
+					<div class="service-icon">
+						<img src="../unica/img/services-icons/4.png" alt="1">
+					</div>
+					<div class="service-content">
+						<h4>Fully Qualified</h4>
+						<p>Lorem ipsum dolor sitdo amet, consectetur dont adipis elit. Vivamus interdum ultrices augue. Aenean dos cursus lania.</p>
+					</div>
+				</div>
+				<div class="col-lg-4 col-sm-6 service-item">
+					<div class="service-icon">
+						<img src="../unica/img/services-icons/5.png" alt="1">
+					</div>
+					<div class="service-content">
+						<h4>Flexible Schedule</h4>
+						<p>Lorem ipsum dolor sitdo amet, consectetur dont adipis elit. Vivamus interdum ultrices augue. Aenean dos cursus lania.</p>
+					</div>
+				</div>
+				<div class="col-lg-4 col-sm-6 service-item">
+					<div class="service-icon">
+						<img src="../unica/img/services-icons/6.png" alt="1">
+					</div>
+					<div class="service-content">
+						<h4>Chemistry Lab</h4>
+						<p>Lorem ipsum dolor sitdo amet, consectetur dont adipis elit. Vivamus interdum ultrices augue. Aenean dos cursus lania.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- Services section end -->
+
+
+            <hr />
+            <footer>
+                <p>&copy; <%: DateTime.Now.Year %> - My School Management Application</p>
+            </footer>
+            <hr />
+        </div>
+    </form>
+</body>
+</html>
